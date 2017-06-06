@@ -10,6 +10,8 @@ html{
 
 .nav{
   text-align: center;
+  font-weight: bold;
+  color: white;
 }
 
 .nav a{
@@ -53,18 +55,4 @@ footer p{
   text-align: left;
   background-color: dimgray;
   font-size: 11px;
-  display:
-}
-
-.nav2{
-  text-align: left;
-}
-
-.nav2 li{
-  display: inline;
-}
-
-.nav2 a{
-  color: white;
-  display: inline-block;
 }
